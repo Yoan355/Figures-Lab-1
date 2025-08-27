@@ -1,7 +1,7 @@
 import java.awt.*;
 
 /**
- * A pperson that can be manipulated and that draws itself on a canvas.
+ * A person that can be manipulated and that draws itself on a canvas.
  * 
  * @author  Michael Kölling and David J. Barnes
  * @version 7.0
